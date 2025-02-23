@@ -14,6 +14,11 @@
   justify-content: center;
 }
 
+.intro-text-content h2 {
+  font-size: 8rem;
+  margin-bottom: 5rem;
+  margin-top: 2.5rem;
+}
 
 .main-bg {
   background-image: url(../img/main-bg.svg);
@@ -22,18 +27,18 @@
   color:var(--white-color);
 }
 
- .white-bg {
+.white-bg {
   color:var(--white-color);
   background-color: var(--white-color);
 }
 
- .main-content {
+.main-content {
   max-width: 120rem;
   margin: 0 auto;
   padding: var(--gap);
 }
 
- .section {
+.section {
   min-height: 180vh; /* Altura da primeira seção */
 }
 .intro-img img {
@@ -51,7 +56,6 @@
   text-align: center;
 }
 
-
 .content-article {
   display: flex;
   flex-direction: column;
@@ -62,7 +66,6 @@
 .content-article h2 {
   margin-top: 4rem;
 }
-
 
 .grid-one-content {
   height: 100vh;
