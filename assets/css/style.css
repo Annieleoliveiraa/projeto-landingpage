@@ -51,19 +51,18 @@
   text-align: center;
 }
 
-/*
+
 .content-article {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  width: 750px;
-  padding-top: 80px;
+  width: 740px;
 }
 
 .content-article h2 {
-  margin-top: 10rem;
+  margin-top: 4rem;
 }
-*/
+
 
 .grid-one-content {
   height: 100vh;
