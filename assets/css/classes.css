@@ -14,9 +14,9 @@
  .main-content {
   max-width: 1200px;
   margin: 0 auto;
-  padding: var(--gap);
+  padding: 10rem var(--gap);
  }
 
  .section {
-  min-height: 140vh; /* Altura da primeira seção */
+  min-height: 185vh; /* Altura da primeira seção */
 }
