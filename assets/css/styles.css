@@ -14,11 +14,6 @@
   justify-content: center;
 }
 
-.intro-text-content h2 {
-  margin-bottom: 5rem;
-  margin-top: 2.5rem;
-}
-
 .main-bg {
   background-image: url(../img/main-bg.svg);
   background-size: cover;
