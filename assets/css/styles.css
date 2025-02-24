@@ -58,7 +58,8 @@
 }
 
 .content-article h2 {
-  margin-top: 4rem;
+  margin-top: 20rem;
+  width: 710px;
 }
 
 .grid-one-content {
@@ -71,6 +72,7 @@
 
 .grid-main-heading {
   margin-bottom: 1rem;
+  margin-top: 7rem;
 }
 
 .grid-description {
