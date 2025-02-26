@@ -58,3 +58,35 @@ p {
    margin-bottom: 3rem;
    font-weight: var(--weight, 500);
 }
+
+.responsive-table {
+   overflow: hidden;
+   overflow-y: auto;
+   /* overflow-x: auto; */
+   width: 75rem;
+   margin: 0 auto;
+}
+
+table {
+   min-width: 360px;
+   width: 100%;
+   border-collapse: collapse;
+}
+
+table caption {
+   font-style: italic;
+   font-size: 1.6rem;
+   text-align: left;
+   margin-bottom: 1rem;
+}
+
+table td, table th {
+   white-space: nowrap;
+   padding: 1rem;
+   text-align: left;
+   border: 0.1rem solid var(--light-gray-color);
+}
+
+tfoot td, table th {
+   background: var(--light-gray-color);
+}

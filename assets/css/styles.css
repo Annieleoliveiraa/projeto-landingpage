@@ -51,10 +51,6 @@
   text-align: center;
 }
 
-.top3-content h2 {
-  margin-top: 9rem;
-}
-
 .content-article {
   display: flex;
   flex-direction: column;
@@ -63,7 +59,7 @@
 }
 
 .content-article h2 {
-  margin-top: 6rem;
+  margin-top: 4rem;
   width: 710px;
 }
 
