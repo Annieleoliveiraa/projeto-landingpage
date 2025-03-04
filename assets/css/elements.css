@@ -63,8 +63,9 @@ p {
 .responsive-table {
    overflow: hidden;
    overflow-y: auto;
-   /* overflow-x: auto; */
-   width: 75rem;
+   overflow-x: auto; 
+   /* width: 75rem; */
+   width: 100%;
    margin: 0 auto;
 }
 
